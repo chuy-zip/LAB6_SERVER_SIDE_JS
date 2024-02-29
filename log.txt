@@ -1,0 +1,49 @@
+{"time":"2024-02-29T15:23:05.758Z","method":"PATCH","path":"/posts","payload":{"title":"Mario Galaxy","game_description":"My favorite game","genre":"Action","main_platform":"PC","multiplayer_support":true,"online_features":true}}
+{"time":"2024-02-29T15:23:24.140Z","method":"DELETE","path":"/posts/40","payload":{"title":"Mario Galaxy","game_description":"My favorite game","genre":"Action","main_platform":"PC","multiplayer_support":true,"online_features":true}}
+{"time":"2024-02-29T15:23:38.498Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T15:23:46.826Z","method":"DELETE","path":"/posts/50","payload":{"title":"Mario Galaxy","game_description":"My favorite game","genre":"Action","main_platform":"PC","multiplayer_support":true,"online_features":true}}
+{"time":"2024-02-29T15:24:28.347Z","method":"DELETE","path":"/posts/1","payload":{"title":"Mario Galaxy","game_description":"My favorite game","genre":"Action","main_platform":"PC","multiplayer_support":true,"online_features":true}}
+{"time":"2024-02-29T15:26:55.305Z","method":"GET","path":"/posts/90","payload":{}}
+{"time":"2024-02-29T15:27:56.009Z","method":"POST","path":"/posts","payload":{"title":"New Game Title","game_description":"Description of the new game","genre":"Action","main_platform":"PC","multiplayer_support":true,"online_features":true}}
+{"time":"2024-02-29T15:29:06.687Z","method":"POST","path":"/posts","payload":{"title":"New Game Title","game_description":"Description of the new game","genre":"Action","main_platform":"PC","multiplayer_support":true,"online_features":true}}
+{"time":"2024-02-29T15:29:29.408Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T15:29:53.822Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T15:29:53.901Z","method":"GET","path":"/favicon.ico","payload":{}}
+{"time":"2024-02-29T15:30:19.959Z","method":"DELETE","path":"/posts/2","payload":{"title":"New Game Title","game_description":"Description of the new game","genre":"Action","main_platform":"PC","multiplayer_support":true,"online_features":true}}
+{"time":"2024-02-29T15:30:35.431Z","method":"DELETE","path":"/posts/3","payload":{"title":"New Game Title","game_description":"Description of the new game","genre":"Action","main_platform":"PC","multiplayer_support":true,"online_features":true}}
+{"time":"2024-02-29T15:30:37.786Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T15:30:38.531Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T15:30:38.713Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T15:30:38.886Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T15:30:39.054Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T15:30:39.236Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T15:32:48.446Z","method":"GET","path":"/posts/2","payload":{}}
+{"time":"2024-02-29T15:36:31.336Z","method":"GET","path":"/posts/2","payload":{}}
+{"time":"2024-02-29T15:37:08.805Z","method":"DELETE","path":"/posts/3","payload":{"title":"New Game Title","game_description":"Description of the new game","genre":"Action","main_platform":"PC","multiplayer_support":true,"online_features":true}}
+{"time":"2024-02-29T15:37:41.804Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T15:37:42.848Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T15:37:43.905Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T15:37:44.101Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T15:37:44.293Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T15:40:52.857Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T15:40:57.469Z","method":"DELETE","path":"/posts/3","payload":{"title":"New Game Title","game_description":"Description of the new game","genre":"Action","main_platform":"PC","multiplayer_support":true,"online_features":true}}
+{"time":"2024-02-29T15:43:41.211Z","method":"DELETE","path":"/posts/3","payload":{"title":"New Game Title","game_description":"Description of the new game","genre":"Action","main_platform":"PC","multiplayer_support":true,"online_features":true}}
+{"time":"2024-02-29T15:43:48.943Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T15:44:04.120Z","method":"GET","path":"/posts/2","payload":{}}
+{"time":"2024-02-29T15:45:22.241Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T15:50:55.988Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T15:51:01.390Z","method":"GET","path":"/posts/2","payload":{}}
+{"time":"2024-02-29T15:51:10.826Z","method":"DELETE","path":"/posts/3","payload":{"title":"New Game Title","game_description":"Description of the new game","genre":"Action","main_platform":"PC","multiplayer_support":true,"online_features":true}}
+{"time":"2024-02-29T15:52:41.830Z","method":"DELETE","path":"/posts/3","payload":{}}
+{"time":"2024-02-29T15:53:31.880Z","method":"PUT","path":"/posts/2","payload":{"title":"Updated Title","game_description":"Updated Description"}}
+{"time":"2024-02-29T15:53:38.413Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T15:53:49.753Z","method":"PUT","path":"/posts/5","payload":{"title":"Updated Title","game_description":"Updated Description"}}
+{"time":"2024-02-29T15:54:30.306Z","method":"GET","path":"/posts/0","payload":{}}
+{"time":"2024-02-29T16:01:13.957Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T16:01:17.937Z","method":"GET","path":"/posts/0","payload":{}}
+{"time":"2024-02-29T16:02:32.079Z","method":"GET","path":"/posts/0","payload":{}}
+{"time":"2024-02-29T16:02:36.059Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T16:02:40.663Z","method":"DELETE","path":"/posts/3","payload":{}}
+{"time":"2024-02-29T16:03:59.455Z","method":"POST","path":"/posts","payload":{"title":"Another game title","game_description":"Description of game","genre":"Action","main_platform":"PSP","multiplayer_support":true,"online_features":true}}
+{"time":"2024-02-29T16:04:05.946Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T16:04:34.701Z","method":"PUT","path":"/posts/4","payload":{"title":"Updated Title","game_description":"Updated Description"}}

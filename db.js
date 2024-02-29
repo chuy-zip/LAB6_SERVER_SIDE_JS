@@ -1,5 +1,10 @@
 import conn from './conn.js';
 
+export async function getPostByID(postId) {
+    const [rows, fields] = await conn.query('SELECT * FROM games WHERE id = ?', [postId]);
+    return rows.length ? rows[0] : null;
+}
+
 export async function insertPost(title, game_description, genre, main_platform, multiplayer_support, online_features) {
     const [result] = await conn.query(
         'INSERT INTO games (title, game_description, genre, main_platform, multiplayer_support, online_features) VALUES (?, ?, ?, ?, ?, ?)',
@@ -17,11 +22,6 @@ export async function getAllPosts() {
     return rows
 }
 
-export async function getPostByID(postId) {
-    const [rows, fields] = await pool.query('SELECT * FROM posts WHERE id = ?', [postId]);
-    return rows.length ? rows[0] : null;
-}
-
 export async function updatePostByID(id, title, game_description) {
     await conn.query('UPDATE games SET title = ?, game_description = ? WHERE id = ?', [title, game_description, id]);
 
@@ -30,15 +30,14 @@ export async function updatePostByID(id, title, game_description) {
     return updatedRow;
 }
 
-// db.js
-
 export async function deletePostByID(id) {
     const existingPost = await getPostByID(id);
     
     if (!existingPost) {
-        throw new Error('Post not found');
+        return false; // Return false if post is not found
     }
     
     await conn.query('DELETE FROM games WHERE id = ?', [id]);
+    return true; // Return true if deletion was successful
 }
 
