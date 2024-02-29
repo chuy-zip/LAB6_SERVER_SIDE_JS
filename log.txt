@@ -47,3 +47,20 @@
 {"time":"2024-02-29T16:03:59.455Z","method":"POST","path":"/posts","payload":{"title":"Another game title","game_description":"Description of game","genre":"Action","main_platform":"PSP","multiplayer_support":true,"online_features":true}}
 {"time":"2024-02-29T16:04:05.946Z","method":"GET","path":"/posts","payload":{}}
 {"time":"2024-02-29T16:04:34.701Z","method":"PUT","path":"/posts/4","payload":{"title":"Updated Title","game_description":"Updated Description"}}
+{"time":"2024-02-29T18:42:12.678Z","method":"GET","path":"/posts/0","payload":{}}
+{"time":"2024-02-29T18:42:41.591Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T18:43:20.820Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T18:46:40.887Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T18:50:54.127Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T18:52:01.448Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T18:53:00.169Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T18:53:13.918Z","method":"GET","path":"/posts/4","payload":{}}
+{"time":"2024-02-29T18:53:18.364Z","method":"GET","path":"/posts/3","payload":{}}
+{"time":"2024-02-29T18:56:35.454Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T18:56:45.828Z","method":"GET","path":"/posts/2","payload":{}}
+{"time":"2024-02-29T18:56:50.386Z","method":"GET","path":"/posts/3","payload":{}}
+{"time":"2024-02-29T19:06:18.375Z","method":"GET","path":"/posts/2","payload":{}}
+{"time":"2024-02-29T19:15:26.495Z","method":"GET","path":"/posts/2","payload":{}}
+{"time":"2024-02-29T19:15:35.143Z","method":"GET","path":"/posts/3","payload":{}}
+{"time":"2024-02-29T19:15:42.406Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-02-29T19:15:47.821Z","method":"GET","path":"/posts/4","payload":{}}
