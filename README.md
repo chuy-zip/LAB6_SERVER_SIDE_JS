@@ -32,17 +32,17 @@ docker-compose down
 ```
 
 ## Endpoints
-The app manages 5 different requests depending on the endpoint and the HTTP's request type. Feel free to test them with Postman, Hoppscotch, etc **(NOTE: port must be 3015 as definied in the dcokerfiles)**. These are the defined endpoints:
+The app manages 5 different requests depending on the endpoint and the HTTP's request type. Feel free to test them with Postman, Hoppscotch, etc **(NOTE: port must be 22107 as definied in the dcokerfiles)**. These are the defined endpoints:
 
 ## Endpoints
 
 | HTTP Method | Endpoint                              | Description                                 |
 |-------------|---------------------------------------|---------------------------------------------|
-| POST        | http://localhost:3015/posts           | Adds a game to the database                 |
-| GET         | http://localhost:3015/posts           | Gets all the stored games on the database   |
-| GET         | http://localhost:3015/posts/:postId  | Gets a post with a specific ID              |
-| PUT         | http://localhost:3015/posts/:postId  | Changes the title and description of a specific game |
-| DELETE      | http://localhost:3015/posts/:postId  | Deletes a game from the database            |
+| POST        | http://localhost:22107/posts           | Adds a game to the database                 |
+| GET         | http://localhost:22107/posts           | Gets all the stored games on the database   |
+| GET         | http://localhost:22107/posts/:postId  | Gets a post with a specific ID              |
+| PUT         | http://localhost:22107/posts/:postId  | Changes the title and description of a specific game |
+| DELETE      | http://localhost:22107/posts/:postId  | Deletes a game from the database            |
 
 
 **Where ":postId" is the id you want to get, change or delete.** You can also try to make requests with invalid endpoints or nonexistent id's. You should be able to see different cases for error handling.

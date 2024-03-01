@@ -64,3 +64,9 @@
 {"time":"2024-02-29T19:15:35.143Z","method":"GET","path":"/posts/3","payload":{}}
 {"time":"2024-02-29T19:15:42.406Z","method":"GET","path":"/posts","payload":{}}
 {"time":"2024-02-29T19:15:47.821Z","method":"GET","path":"/posts/4","payload":{}}
+{"time":"2024-03-01T01:17:44.669Z","method":"GET","path":"/posts/2","payload":{}}
+{"time":"2024-03-01T01:17:45.606Z","method":"GET","path":"/favicon.ico","payload":{}}
+{"time":"2024-03-01T01:49:25.877Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-03-01T01:49:26.399Z","method":"GET","path":"/favicon.ico","payload":{}}
+{"time":"2024-03-01T01:56:19.546Z","method":"GET","path":"/posts/2","payload":{}}
+{"time":"2024-03-01T02:02:46.269Z","method":"GET","path":"/posts/2","payload":{}}
