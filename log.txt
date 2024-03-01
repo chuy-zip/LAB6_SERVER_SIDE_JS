@@ -70,3 +70,30 @@
 {"time":"2024-03-01T01:49:26.399Z","method":"GET","path":"/favicon.ico","payload":{}}
 {"time":"2024-03-01T01:56:19.546Z","method":"GET","path":"/posts/2","payload":{}}
 {"time":"2024-03-01T02:02:46.269Z","method":"GET","path":"/posts/2","payload":{}}
+{"time":"2024-03-01T03:29:22.670Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-03-01T03:33:12.639Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-03-01T04:41:32.558Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-03-01T04:41:41.266Z","method":"GET","path":"/favicon.ico","payload":{}}
+{"time":"2024-03-01T04:42:19.475Z","method":"POST","path":"/posts","payload":{"title":"Another game title","game_description":"Description of game","genre":"Action","main_platform":"PS2","multiplayer_support":true,"online_features":true}}
+{"time":"2024-03-01T05:07:25.658Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-03-01T05:13:52.131Z","method":"POST","path":"/posts","payload":{"title":"A game","game_description":"One of my favorite games","genre":"Action","main_platform":"PS2","multiplayer_support":true,"online_features":false}}
+{"time":"2024-03-01T05:14:24.440Z","method":"GET","path":"/posts/2","payload":{}}
+{"time":"2024-03-01T05:14:58.404Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-03-01T05:15:06.631Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-03-01T05:16:00.233Z","method":"POST","path":"/posts","payload":{"title":"A game","game_description":"One of my favorite games","genre":"Action","main_platform":"PS2","multiplayer_support":true,"online_features":false}}
+{"time":"2024-03-01T05:16:21.170Z","method":"DELETE","path":"/posts/3","payload":{}}
+{"time":"2024-03-01T05:16:26.317Z","method":"DELETE","path":"/posts/4","payload":{}}
+{"time":"2024-03-01T05:16:42.790Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-03-01T05:16:48.989Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-03-01T05:17:13.493Z","method":"PUT","path":"/posts/2","payload":{"title":"Updated Title test","game_description":"Updated Description"}}
+{"time":"2024-03-01T05:20:00.357Z","method":"PUT","path":"/posts/2","payload":{"title":"Updated Title test","game_description":"Updated Description"}}
+{"time":"2024-03-01T05:20:04.855Z","method":"POST","path":"/posts","payload":{"title":"A game","game_description":"One of my favorite games","genre":"Action","main_platform":"PS2","multiplayer_support":true,"online_features":false}}
+{"time":"2024-03-01T05:20:37.137Z","method":"POST","path":"/posts","payload":{"title":"A game","gameDescription":"One of my favorite games","genre":"Action","mainPlatform":"PSS2","multiplayerSupport":true,"onlineFeatures":false}}
+{"time":"2024-03-01T05:20:41.445Z","method":"PUT","path":"/posts/2","payload":{"title":"Updated Title test","gameDescription":"Updated Description"}}
+{"time":"2024-03-01T05:20:47.902Z","method":"GET","path":"/posts/2","payload":{}}
+{"time":"2024-03-01T05:20:53.870Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-03-01T05:24:08.466Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-03-01T05:24:18.025Z","method":"GET","path":"/posts/2","payload":{}}
+{"time":"2024-03-01T05:24:21.501Z","method":"GET","path":"/posts/4","payload":{}}
+{"time":"2024-03-01T05:24:26.368Z","method":"GET","path":"/posts/1","payload":{}}
+{"time":"2024-03-01T05:24:29.534Z","method":"GET","path":"/posts/5","payload":{}}

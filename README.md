@@ -18,6 +18,9 @@ The general theme of this project is to crate a web app by making both frontend 
 Running this project is fairly simple. The only requirements are to have Node.js installed and also Docker, in order to lift the containers with docker-compose. Once you have this and have cloned the repository you only have to run on the root of the project:
 
 ```
+docker compose build
+```
+```
 docker-compose up
 ```
 or
@@ -51,19 +54,19 @@ For the POST, the body should be an "application/json" and the structure is like
 
 ```sh
 {
-  "title": "A game title",
-  "game_description": "Description of game",
+  "title": "A game",
+  "gameDescription": "One of my favorite games",
   "genre": "Action",
-  "main_platform": "PS2",
-  "multiplayer_support": true,
-  "online_features": true
+  "mainPlatform": "PSS2",
+  "multiplayerSupport": true,
+  "onlineFeatures": false
 }
 ```
 For the PUT request (change data on an existing register on the Data Base) the body should be an "application/json" and the structure is like this:
 ```sh
 {
-  "title": "Updated Title",
-  "game_description": "Updated Description"
+  "title": "Updated Title test",
+  "gameDescription": "Updated Description"
 }
 ```
 
