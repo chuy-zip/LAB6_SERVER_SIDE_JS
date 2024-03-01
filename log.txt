@@ -97,3 +97,11 @@
 {"time":"2024-03-01T05:24:21.501Z","method":"GET","path":"/posts/4","payload":{}}
 {"time":"2024-03-01T05:24:26.368Z","method":"GET","path":"/posts/1","payload":{}}
 {"time":"2024-03-01T05:24:29.534Z","method":"GET","path":"/posts/5","payload":{}}
+{"time":"2024-03-01T06:06:28.902Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-03-01T06:06:52.110Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-03-01T06:07:22.275Z","method":"GET","path":"/posts/2","payload":{}}
+{"time":"2024-03-01T06:07:29.716Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-03-01T06:10:00.719Z","method":"POST","path":"/posts","payload":{"title":"A game","gameDescription":"One of my favorite games","genre":"Action","mainPlatform":"PSS2","multiplayerSupport":true,"onlineFeatures":false}}
+{"time":"2024-03-01T06:10:25.712Z","method":"GET","path":"/posts","payload":{}}
+{"time":"2024-03-01T06:14:01.607Z","method":"GET","path":"/posts6","payload":{}}
+{"time":"2024-03-01T06:14:07.871Z","method":"GET","path":"/posts/6","payload":{}}
