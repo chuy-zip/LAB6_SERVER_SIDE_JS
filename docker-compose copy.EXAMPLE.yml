@@ -21,6 +21,6 @@ services:
         MYSQL_PASSWORD: blog_pass44
         MYSQL_ROOT_PASSWORD: root_pass44
     ports:
-        - "3306:3306"
+        - "3383:3306"
     volumes:
         - ./mysql-data:/var/lib/mysql
